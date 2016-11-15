@@ -3,7 +3,7 @@
 
 #include <stdexcept>
 
-namespace FieldConverter
+namespace PirateSimulator
 {
 
 

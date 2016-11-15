@@ -3,7 +3,7 @@
 
 #include "Config.hpp"
 
-using FieldConverter::Config;
+using PirateSimulator::Config;
 
 Config* Config::m_instance;
 
